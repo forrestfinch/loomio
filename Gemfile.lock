@@ -364,7 +364,7 @@ GEM
     nokogiri (1.13.5)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    oga (3.3)
+    oga (3.4)
       ast
       ruby-ll (~> 2.1)
     oj (3.13.11)
@@ -561,7 +561,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (2.1.0)
     uuidtools (2.2.0)
-    video_info (3.0.2)
+    video_info (3.1.0)
       iso8601 (~> 0.9.1)
       net_http_timeout_errors (~> 0.3.0)
       oga (~> 3.0)
