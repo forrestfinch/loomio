@@ -437,7 +437,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.5.1)
+    redcarpet (3.6.0)
     redis (4.5.1)
     redis-actionpack (5.2.0)
       actionpack (>= 5, < 7)
@@ -636,7 +636,7 @@ DEPENDENCIES
   rails_serve_static_assets
   rake
   ransack (= 3.1.0)
-  redcarpet (~> 3.5.1)
+  redcarpet (~> 3.6.0)
   redis-objects
   redis-rails
   reverse_markdown
